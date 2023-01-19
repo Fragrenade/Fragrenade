@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Fragrenade
-- 👀 I’m interested in Gane Dev
-- 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Game Dev
 - 📫 How to reach me themisfragkiadakis@gmail.com
 
 <!---
